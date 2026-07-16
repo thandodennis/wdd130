@@ -1,13 +1,13 @@
 main {
     max-width: 840px;
+}
 
-    img {
-        width: 150px;
-        height: auto;
-        border: 1px solid black;
-        padding: 2px;
-        box-shadow: 0 0 30px grey;
-    }
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px grey;
 }
 
 aside {
@@ -19,12 +19,11 @@ aside {
     background-color: #eee;
     color: #333;
     text-align: center;
+}
 
-    img {
-        width: 200px;
-        height: auto;
-    }
-
+aside img {
+    width: 200px;
+    height: auto;
 }
 
 main img {
